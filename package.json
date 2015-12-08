@@ -1,0 +1,23 @@
+{
+  "name": "le-triangle-de-pascal",
+  "version": "0.0.1",
+  "description": "Pascal's triangle maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianblynch/le-triangle-de-pascal.git"
+  },
+  "keywords": [
+    "pascal",
+    "triangle"
+  ],
+  "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianblynch/le-triangle-de-pascal/issues"
+  },
+  "homepage": "https://github.com/adrianblynch/le-triangle-de-pascal#readme"
+}
